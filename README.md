@@ -1,3 +1,3 @@
 # opinionated-scala
 
-[Somewhat opinionated Scala guide](wiki)
+[Somewhat opinionated Scala guide](../../wiki)
