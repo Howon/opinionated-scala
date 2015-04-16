@@ -1,3 +1,3 @@
 # opinionated-scala
 
-[Somewhat opinionated scala guide](wiki/Home)
+[Somewhat opinionated Scala guide](wiki)
